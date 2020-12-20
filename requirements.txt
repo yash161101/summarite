@@ -9,3 +9,4 @@ urllib3==1.26.2
 nltk==3.5
 heapq_max==0.21
 lxml==4.6.2
+regex==2020.11.13
