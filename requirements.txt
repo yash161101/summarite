@@ -5,7 +5,7 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 beautifulsoup4==4.9.3
-urllib.request==3.7
+urllib3
 nltk==3.5
 heapq
 lxml==4.6.2
