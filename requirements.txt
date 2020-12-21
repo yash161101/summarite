@@ -8,3 +8,5 @@ beautifulsoup4==4.9.3
 urllib3
 nltk==3.5
 lxml==4.6.2
+regex==2.5.91
+heap_max==0.21
